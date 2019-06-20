@@ -1,4 +1,4 @@
-    int buzzer = 11;       
+    int buzzer = 7;       
     int frequency = 900;
     int PIR_sensor = A5;               
     int val = 0;
